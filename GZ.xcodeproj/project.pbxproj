@@ -12,6 +12,7 @@
 		F84FE45821A656F4004AE090 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F84FE45621A656F4004AE090 /* Main.storyboard */; };
 		F84FE45A21A656F5004AE090 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F84FE45921A656F5004AE090 /* Assets.xcassets */; };
 		F84FE45D21A656F5004AE090 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F84FE45B21A656F5004AE090 /* LaunchScreen.storyboard */; };
+		F84FE46721A69E8B004AE090 /* listTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F84FE46621A69E8B004AE090 /* listTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F84FE45921A656F5004AE090 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F84FE45C21A656F5004AE090 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F84FE45E21A656F5004AE090 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F84FE46621A69E8B004AE090 /* listTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F84FE45221A656F4004AE090 /* AppDelegate.swift */,
 				F84FE45421A656F4004AE090 /* ViewController.swift */,
+				F84FE46621A69E8B004AE090 /* listTableViewCell.swift */,
 				F84FE45621A656F4004AE090 /* Main.storyboard */,
 				F84FE45921A656F5004AE090 /* Assets.xcassets */,
 				F84FE45B21A656F5004AE090 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F84FE46721A69E8B004AE090 /* listTableViewCell.swift in Sources */,
 				F84FE45521A656F4004AE090 /* ViewController.swift in Sources */,
 				F84FE45321A656F4004AE090 /* AppDelegate.swift in Sources */,
 			);
